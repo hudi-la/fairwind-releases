@@ -19,3 +19,8 @@ Then double-click **Fairwind** in the Applications folder inside your home folde
 
 随包附带的 `LICENSE.txt`：可自用，不可转售、不可用它开班或做成别的产品。
 See `LICENSE.txt` in the bundle: personal use only; no resale, no teaching with it, no derivative products.
+
+## 让你自己的 AI 工具读写 Fairwind / Use your own AI tool with Fairwind
+
+Fairwind 开了一扇门（MCP）：Claude Code、ChatGPT 桌面版或任何认 MCP 的工具，连上就能替你从作品集网站填档案、把 open call 做成机会卡、按你的口味改判据。怎么接、能做什么、试试哪几句：[MCP-guide.md](MCP-guide.md)。
+Fairwind exposes an MCP server: Claude Code, the ChatGPT desktop app or any MCP-capable tool can fill your profile from your website, turn open calls into pursuit cards and rewrite your judgment rules. How to connect and what to say: [MCP-guide.md](MCP-guide.md).
